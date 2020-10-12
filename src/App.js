@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className='App'>
-  <Students CollageName='PIAIC' AIStudentName = 'Asif' OtherStudentName='All Others' />
+  <Students CollageName='PIAIC' AIStudentName = 'Uzair' OtherStudentName='All Others' />
   <hr />
   <Students CollageName='PNY' AIStudentName = 'Zubair' OtherStudentName='Nazia and Ali' />
   <hr />
